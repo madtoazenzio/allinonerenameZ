@@ -13,7 +13,7 @@ class Translation(object):
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry Do You Think! I'll Upload It?"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank you for Using Me Support Our Channel Z Bots</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
-    NOT_AUTH_USER_TEXT = "CONTACT @Mo_Tech_Group"
+    NOT_AUTH_USER_TEXT = "CONTACT Z Bots"
     NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact Z Bots "
     SAVED_CUSTOM_THUMB_NAIL = "<b>thumbnail Saved ✅ This Is Permanent Until</b> /delthumb ❤"
     DEL_ETED_CUSTOM_THUMB_NAIL = "thumbnail cleared succesfully🤦"
